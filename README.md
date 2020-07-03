@@ -1,5 +1,5 @@
 # DMTNet
-DMTNet stands for Dialogue Modelling Transformer Network - a novel implementation of state-of-the-art natural language processing (NLP) deep neural networks (DNNs)
+DMTNet stands for Dialogue Modelling Transformer Network - a novel implementation of state-of-the-art natural language processing transformer networks
 
 ## Goal
 The aim of this project is to build an interactive deep-fake of celebrity intellectual Joe Rogan. Ideally, the application will simulate conversation by generating text responses in the style of Joe Rogan
