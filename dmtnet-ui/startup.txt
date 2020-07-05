@@ -1,5 +1,0 @@
-Instructions for starting up the dev environment
-
-1. Activate the virtual environment: .\venv\Scripts\activate
-2. Set the Flask environment variable: $env:FLASK_APP = "app.py"
-3. Run the flask server: flask run
