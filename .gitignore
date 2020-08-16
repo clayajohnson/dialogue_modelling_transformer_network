@@ -4,3 +4,6 @@ checkpoint/
 
 # Distribution / packaging
 venv/
+
+# Notes
+startup.txt
